@@ -1,0 +1,79 @@
+/* orange */
+color: #fa5a25;
+
+/* teal */
+color: #3aaaaf;
+
+/* black */
+color: #222;
+
+/* white */
+color: #fff;
+
+/* yellow */
+color: #ffc838;
+
+body {
+    font-family: Roboto Mono;
+
+}
+
+/*  Header */
+.header {
+    background: linear-gradient(90deg, #4D4F48 0%, #000000 100%);
+    border-radius: 4px;
+    margin-top: 72px;
+}
+
+/*  Entries from API endpoint */
+
+
+
+
+/* Buttons */
+.btn {
+    display: block;
+    border-radius: 4px;
+    background-color: #C9F646;
+    padding: 16px;
+
+    color: #000;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.btn:hover {
+    background: #9BCC0F;
+    color: #000;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+
+/* small */
+@media only screen and (max-width: 767px) {
+
+
+}
+
+/* medium */
+@media only screen and (max-width: 991px) {
+
+
+}
+
+/* large*/
+@media only screen and (max-width: 1199px) {
+
+
+}
+
+/* x-large*/
+@media only screen and (min-width: 1200px) {
+
+
+}
